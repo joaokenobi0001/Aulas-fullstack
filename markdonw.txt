@@ -1,0 +1,10 @@
+# Comandos de Git
+
+- `git clone <url>`: Clona um repositório remoto.
+- `git config --list`: Lista todas as configurações do Git.
+- `git checkout -b <nome-da-branch>`: Cria e muda para uma nova branch.
+- `git add <arquivo>`: Adiciona um arquivo ao staging.
+- `git commit -m "<mensagem>"`: Faz um commit com uma mensagem.
+- `git push`: Envia as alterações para o repositório remoto.
+- `git pull`: Atualiza o repositório local com as alterações do remoto.
+- `git status`: Mostra o estado dos arquivos no diretório de trabalho.
